@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **golang,php,laravel,javascript,node,js**
 
-- ⚡ Fun fact **I THIN I AM FUNNY**
+- 📫 How to reach me **muhammadzaidaan16@gmail.com**
+
+- ⚡ Fun fact **I THINK I AM FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
